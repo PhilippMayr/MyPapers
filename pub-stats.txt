@@ -1,0 +1,10 @@
+Pub stats
+
+#29.12.2022
+
+@261
+
+@Research = 92
+@Other = 71
+@Editorial = 89
+@Dataset = 8

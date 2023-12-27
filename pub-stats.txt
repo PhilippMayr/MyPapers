@@ -8,3 +8,12 @@ Pub stats
 @Other = 71
 @Editorial = 89
 @Dataset = 8
+
+----
+
+#27.12.2023
+
+@Research = 100
+@Other = 72
+@Editorial = 94
+@Dataset = 9
